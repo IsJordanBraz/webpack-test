@@ -2,6 +2,6 @@
 
 in terminal execute
 
-npn run build
+npm run build
 
 This must bundle for dist.
