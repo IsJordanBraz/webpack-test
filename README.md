@@ -4,4 +4,4 @@ in terminal execute
 
 npm run build
 
-This must bundle for dist.
+This must bundle the files in dist.
